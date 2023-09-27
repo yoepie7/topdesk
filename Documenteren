@@ -1,0 +1,21 @@
+5. Documenteren
+Een systematische en gedetailleerde documentatie van meldingen is essentieel voor de continuïteit en kwaliteit van dienstverlening. Het zorgt voor transparantie, traceerbaarheid en kan in de toekomst dienen als referentiepunt. Hierbij is het belangrijk dat de volgende zaken in acht worden genomen:
+
+a. Conform bedrijfsafspraken en SLA
+
+Alle documentatie moet voldoen aan de interne bedrijfsafspraken en eventuele Service Level Agreements (SLA's) die met klanten zijn overeengekomen.
+Dit waarborgt een uniforme en kwalitatieve manier van documenteren.
+b. Werkzaamheden en tijdsbesteding
+
+Voor elke melding moet duidelijk worden vastgelegd welke werkzaamheden zijn verricht.
+Daarnaast moet worden genoteerd hoeveel tijd aan elke specifieke werkzaamheid is besteed. Dit is essentieel voor facturering, tijdsmanagement en analyse van de efficiëntie.
+c. Materialen, kosten en werkzaamheden
+
+Documenteer alle materialen die zijn gebruikt om een melding af te handelen.
+Leg alle uitgevoerde werkzaamheden vast, inclusief details over de aard en de duur ervan.
+Noteer alle bijkomende kosten, zoals reiskosten, om een compleet beeld te hebben van de totale kosten van het afhandelen van de melding.
+d. Configuratie-aanpassingen en CMDB
+
+Als er aanpassingen zijn gedaan aan configuraties, moet dit gedetailleerd worden gedocumenteerd.
+Deze wijzigingen moeten ook worden bijgewerkt in de Configuration Management Database (CMDB). De CMDB is een tool die alle configuratie-items binnen een IT-omgeving documenteert en beheert.
+Alle wijzigingen in de CMDB moeten worden gerapporteerd, zodat er een helder overzicht is van alle veranderingen.
