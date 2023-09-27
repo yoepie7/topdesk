@@ -1,0 +1,25 @@
+Werkproces 1: Handelt meldingen af
+
+1. Registreren
+De eerste stap in het afhandelen van meldingen is het correct registreren van de melding. Hierbij is het belangrijk dat de volgende zaken in acht worden genomen:
+
+a. Gegevens aanmelder
+
+Wie doet de melding? (Naam, contactgegevens, afdeling/organisatie)
+Eventueel een referentienummer of klantnummer voor de aanmelder.
+b. Categorie
+
+Onder welke categorie valt de melding? (Bijvoorbeeld: technische storing, klacht, verzoek om informatie, enz.)
+Dit helpt bij het snel toewijzen van de melding aan de juiste afdeling of medewerker.
+c. Prioritering
+
+Hoe urgent is de melding? Moet deze direct worden opgepakt of kan het wachten?
+Prioriteit kan worden aangeduid met labels als 'Hoog', 'Gemiddeld', 'Laag', of met een nummerieke score.
+d. Tijdsindicatie
+
+Wanneer is de melding binnengekomen?
+Hoeveel tijd is er al verstreken sinds de melding is gedaan?
+Is er een deadline of gewenste reactietijd gegeven door de aanmelder?
+Belangrijk:
+
+Zorg ervoor dat de melding tijdig en correct wordt geregistreerd binnen het ticketsysteem. Dit betekent dat er geen vertragingen mogen zijn tussen het ontvangen van de melding en het invoeren ervan in het systeem. Ook moet alle informatie nauwkeurig en volledig worden ingevoerd.
